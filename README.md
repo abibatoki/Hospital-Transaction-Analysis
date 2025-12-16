@@ -8,7 +8,7 @@ In this project, I built an interactive Power BI dashboard using a hospital tran
 ## 🚀 Live Demo
 
 You can explore the full dashboard here:  
-🔗 **(https://huggingface.co/spaces/abibatoki/indian_bank_customer_segmentation_dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmUwNmFmNTMtZWUzYS00MzFlLTk5YmQtMGI3NmU1M2M5ZTFhIiwidCI6IjFlNjMzNjFkLTJhODktNGMyNy04MTcwLTExNGE4MTVkZDA0ZiJ9&pageName=1fb029a0806996d8b000)**
+🔗 **(https://app.powerbi.com/view?r=eyJrIjoiYmUwNmFmNTMtZWUzYS00MzFlLTk5YmQtMGI3NmU1M2M5ZTFhIiwidCI6IjFlNjMzNjFkLTJhODktNGMyNy04MTcwLTExNGE4MTVkZDA0ZiJ9&pageName=1fb029a0806996d8b000)**
 
 ---
 
