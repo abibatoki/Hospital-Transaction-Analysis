@@ -28,7 +28,7 @@ Hospitals operate with tight margins and complex services. Without a single sour
 
 ---
 
-## 💻 Code and Resources Used
+## 💻 Resources Used
 
 This project was developed using **Microsoft Excel** and **Microsoft Power BI**.
 
